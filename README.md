@@ -6,7 +6,7 @@ BetWin - The Ultimate Sports Betting Platform
 
 # BetWin Sports Betting Website
 
-![BetWin](https://www.casino-scripts.co/wp-content/uploads/2024/05/058de486314099.Y3JvcCwxNjAwLDEyNTEsMCwxNzQ.webp)
+![BetWin](https://www.casino-scripts.co/wp-content/uploads/2024/05/37e91486314099.65e1a2a4a528d.png)
 
 ## Explore Our Diverse Sports Betting Options
 - **Football**: Bet on matches, leagues, and tournaments worldwide.
